@@ -1,0 +1,9 @@
+﻿<xapCache source="C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\BennettApp.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="24.10.2010 22:33:30">
+  <file source="C:\Code\Playground\WP7\BennettApp\BennettApp\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="25.09.2010 11:12:49" />
+  <file source="C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\BennettApp.dll" archivePath="BennettApp.dll" lastWriteTime="24.10.2010 22:33:30" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="01.09.2010 03:51:10" />
+  <file source="C:\Code\Playground\WP7\BennettApp\BennettApp\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="25.09.2010 11:12:49" />
+  <file source="C:\Code\Playground\WP7\BennettApp\BennettApp\Background.png" archivePath="Background.png" lastWriteTime="25.09.2010 11:12:49" />
+  <file source="C:\Code\Playground\WP7\BennettApp\BennettApp\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="25.09.2010 11:12:49" />
+  <file source="C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="25.09.2010 11:12:52" />
+</xapCache>

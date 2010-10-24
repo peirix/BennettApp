@@ -1,0 +1,17 @@
+C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\ApplicationIcon.png
+C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\Background.png
+C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\BennettApp.dll
+C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\BennettApp.pdb
+C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\AppManifest.xaml
+C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\BennettApp.xap
+C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Code\Playground\WP7\BennettApp\BennettApp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\App.g.i.cs
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\MainPage.g.i.cs
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\BennettApp.g.resources
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\BennettApp.dll
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\BennettApp.pdb
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\XapCacheFile.xml
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\SingleBlogItem.g.i.cs
+C:\Code\Playground\WP7\BennettApp\BennettApp\obj\Debug\SingleJobPage.g.i.cs
